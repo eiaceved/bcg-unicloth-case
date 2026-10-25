@@ -1,538 +1,730 @@
 [
  {
-  "hash": "12ccb9a83fce0759b0c40275c08bd6eaeb2717fd",
-  "text": "Structure."
+  "hash": "0305521f661168614fe973b8fe05d4a702c09050",
+  "text": "YOU LEAD, THEY TEST"
  },
  {
-  "hash": "aee29cd6432591ccabd218fb53bb8510dfa99647",
-  "text": "Ask for data."
+  "hash": "045cb434d7929ae8133ce2144daacd1a44249fcd",
+  "text": "The point where revenue equals costs and profit is zero. Unicloth is about 13 million dollars below it."
  },
  {
-  "hash": "df7d314f0d0bec0e0f2a232ea98dfc6e84c9cb9b",
-  "text": "Do the math."
+  "hash": "061a118c99bd0ee06e25b5e6be352ea3f9d1943b",
+  "text": "Say the formula first: revenue equals items per day times price, times 365. Keep the arithmetic in round numbers as you go."
  },
  {
-  "hash": "b02fc44cc07dddbbf47104ae558e7128220253f4",
-  "text": "Take no for an answer."
+  "hash": "074070c1d028b9146324af0f2ee84d7495a570bc",
+  "text": "Restate the question in one sentence, then say what you'd like to clarify."
  },
  {
-  "hash": "bccf443b8116c53e20c1025f3265e172ae2878bd",
-  "text": "Recommend."
+  "hash": "07bb13454b4ad758e463dec0fb29157e3a669fd3",
+  "text": "STRONG QUESTIONS, WITH THE INTERVIEWER'S ANSWERS"
  },
  {
-  "hash": "5fc5d505c34788af7e5d367ff366794805dd9197",
-  "text": "StructureYour plan of attack."
+  "hash": "0a7f7d39cd3bcc7cce30ac669a47927523779ffe",
+  "text": "Market sizing: US casual clothing"
+ },
+ {
+  "hash": "0cb65f2d7c2b70339211bc355e097c6cb15eb63a",
+  "text": "Where does the pricing sit?About 40 dollars average, in line with the American retailer Bap and a bit below the European retailer Mara."
+ },
+ {
+  "hash": "0e0695df4f1bd61006faabd72da14e79586716d9",
+  "text": "Sanity checkUS apparel ≈ $250–300B✓"
+ },
+ {
+  "hash": "0e4820b3003eb6e0f2f7bc732a5e7211a499b94b",
+  "text": "The levers are worth 17.25 million, but 13 million of that just closes the existing gap. What's left over is profit: 17.25 minus 13 is about 4.25 million. Candidates who say 17 million forgot the hole they were filling."
+ },
+ {
+  "hash": "0e778d71a31665b06a63b9f5ae1c738e51843fd6",
+  "text": "Okay. How do you want to approach this?"
+ },
+ {
+  "hash": "0eda8d77e34cad93e11bc25b2cb5cd229ba79178",
+  "text": "Practice test"
+ },
+ {
+  "hash": "11463c67743e280bc8d9b9fe6b29ca486c02ff2a",
+  "text": "BASED ON PUBLIC PREP GUIDES"
+ },
+ {
+  "hash": "1194b0134eda3a36e6a80585f4a3fbc12bd7fbec",
+  "text": "4 · Labor$4.4M + $0.5M + $0.53M + $0.3M≈$6M"
+ },
+ {
+  "hash": "122112e189f161d4d90366f42af76e2b62521998",
+  "text": "× ~50% casualCasual share≈$130B"
+ },
+ {
+  "hash": "12f5438dcc97dacc6bf5a5d1abd42fcf9e65048c",
+  "text": "Quick check: roughly what do the three mall stores earn per year?"
+ },
+ {
+  "hash": "1529a64e0023c111f1d340f68acbdc951ed1ecef",
+  "text": "Case data, from the Wharton Casebook 2017. The casebook prices the coffee partner's rent share at 1.75 million a year; if your interviewer says \"25 percent of the flagship's rent,\" the number is 4.5 million instead. Confirm the rate in the room."
+ },
+ {
+  "hash": "180328a92268887db4921adaac86d08af33c5103",
+  "text": "TEN TERMS TO DROP NATURALLY"
+ },
+ {
+  "hash": "193bd4d467c4dcd1507e9cf0199cf1cdbe95f73c",
+  "text": "COGS, rent, store upkeep, labor."
+ },
+ {
+  "hash": "1a85d522f4182b2e97557f8c22d3289692ab9bd3",
+  "text": "Revenue is what you charge times how many you sell. Always check both before deciding which one broke."
+ },
+ {
+  "hash": "1c06c8089c87bc557d700352b465ed8edd6842f2",
+  "text": "Grouping by the profit tree shows the ideas come from a structure, not a guess. And notice what the interviewer rules out: they're steering you toward shipping, rent sharing, and the redesign."
+ },
+ {
+  "hash": "1d1baa9d943f753d8bb7048c88f52ef62915031b",
+  "text": "Units sold per store per day."
+ },
+ {
+  "hash": "1ee0c7188f10abac5fd47b5508f25051b44292a8",
+  "text": "Ask for data. \"What's the average price, and the units per store?\" Specific asks get useful numbers."
+ },
+ {
+  "hash": "20b0ad30e45165b4292c1adb68ab364e4eb10d0c",
+  "text": "Say where the problem is, and what you'd attack first."
+ },
+ {
+  "hash": "20fdf86386100344302588954ad4e37d89746831",
+  "text": "Work the levers one at a time, savings first, then the net revenue lever. Watch the redesign: it costs money and makes money."
+ },
+ {
+  "hash": "211f534dbcf70d3883218afc75e3431b9db25f4e",
+  "text": "The coffee partner's contribution to flagship rent."
+ },
+ {
+  "hash": "22930d10bba1c16c501cc62bcc2d234cf9151af5",
+  "text": "\"Second, share the flagship. A coffee-shop partner inside the Fifth Avenue store trims the rent and pulls in more foot traffic: 1.75 million a year.\""
+ },
+ {
+  "hash": "2306f72f44915ab9abe8743860a8cb5ae1934aa6",
+  "text": "Our client is Unicloth, an Asian clothing retailer that entered the US market five years ago."
+ },
+ {
+  "hash": "24a64e8e083a2e9615737eeb2b7a7b9f1cd1d12e",
+  "text": "Pick E (ease) and I (impact): 1 is low, 5 is high."
+ },
+ {
+  "hash": "24ae8b7b4c7c6bebd80fba81db69424e476424c6",
+  "text": "Who is the CEO?She's been in the role for two years. She'll join at the end to hear your recommendation."
+ },
+ {
+  "hash": "25d628e4da0c04f61971a6e7043f6b5e9920a040",
+  "text": "Brainstorm, then prioritize"
+ },
+ {
+  "hash": "26f988b911e17c779d9842acdcc52022a1735b02",
+  "text": "Business judgment: does the answer make sense for this client?"
+ },
+ {
+  "hash": "284fa85b67cb5f77773d29342364580e12f4c739",
+  "text": "Storage, shipping unsold clothes back to the warehouse, and markdowns when they won't sell at full price."
+ },
+ {
+  "hash": "294d94ca8e24e7317897fb7fed19c425f8fe9a38",
+  "text": "Summarize in two sentences and hand the interviewer your next ask."
+ },
+ {
+  "hash": "2b12770cacb571647aefdd24003847d30c324bdc",
+  "text": "Lead with the answer. Then three reasons, the main risk, and next steps."
+ },
+ {
+  "hash": "2bea13779f71b068910e9a84f9544399623b1804",
+  "text": "INTERVIEWER"
+ },
+ {
+  "hash": "2d4890dae11c895586864a92f7f9ded1ce77a5f3",
+  "text": "If you blank, the profit tree, revenue as price times volume and costs as fixed plus variable, works for any profitability case."
+ },
+ {
+  "hash": "2fa3481d224f8654a5c6a20515e17d82fe460d5b",
+  "text": "Rent and manager salaries stay put no matter how much you sell. COGS and shipping move with every item."
+ },
+ {
+  "hash": "33441e099259762b63715aaaa8e031817931d472",
+  "text": "Two short reps in case the interviewer switches to a classic consulting question."
+ },
+ {
+  "hash": "35cf82f9d2a9c8ba5943837ec0d6646d49a7a51e",
+  "text": "Revenue"
+ },
+ {
+  "hash": "36f55d52a5b9833e0c876cbc4bee473b83e5ac58",
+  "text": "Building a market's size from simple assumptions: how many people, how many buy, how often, at what price."
+ },
+ {
+  "hash": "3b9bd7138bce924f36d2f8f9962d4a503985c5b9",
+  "text": "Annual profit. Target: positive, about 4.25 million dollars."
+ },
+ {
+  "hash": "3bc88a462be2186695111c61cf73377de868530a",
+  "text": "Twelve multiple-choice questions on case skills and the Unicloth case. Pick an answer to see the explanation."
+ },
+ {
+  "hash": "3cfced29667347a2e79b97d5dfcf7a7ae4ac4808",
+  "text": "Score all six to see your top three."
+ },
+ {
+  "hash": "3eebb3227ca683337cc506c337f35e1e1177ae10",
+  "text": "Give one reason for each score, then name your top three."
+ },
+ {
+  "hash": "409c5c11d85a5382746f3a4c320b7c874eb8b341",
+  "text": "Judgment: when should Unicloth expand?"
+ },
+ {
+  "hash": "40bbee815b34474e3a206642aa77d5dcfbacec7c",
+  "text": "THE SHAPE OF THE CASE"
+ },
+ {
+  "hash": "411ef8cb91bf74fe0355274a1b38e34d3c96a3db",
+  "text": "What exactly does Unicloth sell, and where is it made?Casual clothing: jeans, t-shirts, knit sweaters, dresses. The designs follow the home market in Asia, and manufacturing is in China and Bangladesh."
+ },
+ {
+  "hash": "45572ab35209eb94d6141203edf03da82d27ba02",
+  "text": "2 · Coffee partnershared flagship rent+$1.75M"
+ },
+ {
+  "hash": "459f08a490046dec0dec4e434caa35f9e0dee04c",
+  "text": "Brainstorm for 60 seconds, grouped by type. Don't wait for the list; the interviewer is scoring your instincts."
+ },
+ {
+  "hash": "487f9908e17d46505da9329f2e6723b30495ef53",
+  "text": "A, B, and C go straight at the numbers with management's blessing. D and E contradict what management has already decided: the mall stores stay for the suburban expansion, and the flagship is the marketing. F is real but the company isn't ready for the investment, and the casebook's interviewer says so."
+ },
+ {
+  "hash": "4a6a5a30bf1f6c6ed605da9bb6fd12c94e16615b",
+  "text": "1 · Sea shipping$90M × 5%+$4.5M"
+ },
+ {
+  "hash": "4d2af9629a5268600d7b2b3a36ef8bf3f7d68789",
+  "text": "If revenue grows 12 percent a year, how long until it doubles? Rule of 72: 72 divided by 12 is about 6 years."
+ },
+ {
+  "hash": "4d57c72fd1bc8eab96612577cd2ee8197fa3be39",
+  "text": "Handling pushback: the interviewer will say no to some of your ideas on purpose."
+ },
+ {
+  "hash": "4f46c3d4e4bc94a98b3a5b1b446fc8fc1a7edf82",
+  "text": "Summarize the math in two sentences, and flag the lever with the shakiest number."
+ },
+ {
+  "hash": "515e963bfd7cfb9d9e56346725136d2f44bcf94a",
+  "text": "Store associates by the hour, and a manager per store."
+ },
+ {
+  "hash": "522cbdbb9dc4a9bd49cb7224eb842fc9d8333ae9",
+  "text": "WHAT IS IT?"
+ },
+ {
+  "hash": "52b072518999d6c29dd1c9d560f230b0f6372e75",
+  "text": "Where is it made, and how does it get here?"
+ },
+ {
+  "hash": "5337a08787214e73c0a248111c0c00cc9eff5a98",
+  "text": "Factory-to-shelf lead time after the shipping switch."
+ },
+ {
+  "hash": "5594fdd05d3409d58c06c97b9995712ef22d4bb0",
+  "text": "COGS on everything sold: the clothes themselves, landed from China and Bangladesh."
+ },
+ {
+  "hash": "569bbd757e1bb8bbccd250b98dc2bb37cb47b787",
+  "text": "Market"
+ },
+ {
+  "hash": "5897d588b37d475d6785a1e68e72448746fd0b14",
+  "text": "The case prompt"
+ },
+ {
+  "hash": "58f3a2cbd4035ccf6b12b8587216307866ab2c2c",
+  "text": "\"Three gates. First, proof the fix works: the redesigned US line lifting sales in the existing stores before we copy it anywhere. Second, unit economics: suburban rent is cheaper but traffic is lower, so I'd want a pilot store's profit per square foot against a mall store's. Third, supply chain: more stores means more volume, and we just lengthened lead times by switching to sea freight. I'd want the warehouse rework done first.\""
+ },
+ {
+  "hash": "5916822a19edd4fb105ff3bc5e6b810283b9a356",
+  "text": "Train the staff better, they're already well trained. Lower prices, no, that deepens a margin problem. Launch online, management isn't ready. Or fix the product itself: American customers find the styles too conservative, the colors too muted, and the sizes run small."
+ },
+ {
+  "hash": "599904c31194e6adaffea618b9d848cf1ee2da2b",
+  "text": "\"The three levers are worth 17.25 million a year: 4.5 from sea shipping, 1.75 from the coffee partner, and 11 net from the redesign. That clears the 13 million gap and leaves about 4.25 million of profit. The number I'd pressure-test is the 23 million revenue lift on the redesign, because it's the biggest lever and the least certain.\""
+ },
+ {
+  "hash": "59db306115e5bdeae65bb9fa82c6a5448bf4de84",
+  "text": "Quick check: after all three levers, Unicloth's annual result is…"
+ },
+ {
+  "hash": "5a450c8bd4340d5bbff15e2b685a384569b3bb13",
+  "text": "Cost of goods sold: what the merchandise itself cost to make and ship. Unicloth's is about 70 percent of revenue."
+ },
+ {
+  "hash": "5b59844ba1913d78f8ec39444522e25ca156fafe",
+  "text": "\"Unicloth is 13 million in the red: 125 million of revenue against 138 million of costs. COGS is the biggest line at 90 million, but it's also the least wasteful, the clothes are made as cheaply as possible. The two that catch my eye are the flagship's 18 million of rent, one store eating a seventh of revenue, and the 12 million of inventory drag, which hints the product isn't selling through. I'd look at both.\""
+ },
+ {
+  "hash": "5c1d378cfc64d50c7f119b2c2db5a1f3712a570a",
+  "text": "Build the framework"
+ },
+ {
+  "hash": "5d602f426150f42ab8003c9e21e55dd97903f8ce",
+  "text": "What each item adds to profit after its direct costs. Unicloth keeps about 30 percent of every 40 dollar item."
  },
  {
   "hash": "5edd1a329774a3c882b5000632cd7727034040a4",
   "text": "DigAsk for the right data."
  },
  {
+  "hash": "5f7a43cf6477d07cdc0a4a3f783f9cfcd9939162",
+  "text": "1 · One mall store, per day1,375 × $40$55K"
+ },
+ {
+  "hash": "5fc5d505c34788af7e5d367ff366794805dd9197",
+  "text": "StructureYour plan of attack."
+ },
+ {
+  "hash": "6178be783bc231753bde728f513ade095141b501",
+  "text": "4 · Total revenue$60M + $66M ≈ $126Mcarry $125M"
+ },
+ {
+  "hash": "62c94c33ac4ebe75f1b2d284edb4559f15241f80",
+  "text": "Put simply, they want to see you lead a messy problem to a clear answer, do clean math, and use good business judgment. Formats vary by office, so confirm the details with your recruiter."
+ },
+ {
+  "hash": "63a85a117a1a44b489ce11858623c2885c2f45b6",
+  "text": "WHO ELSE IS OUT THERE?"
+ },
+ {
+  "hash": "64ae43e8fe76204a5a93092218b9a5a0baed8136",
+  "text": "Cost"
+ },
+ {
+  "hash": "657ff812d137fb3e120852678ec48891e9c0aba6",
+  "text": "Average price per item."
+ },
+ {
+  "hash": "658a3dd7a6fa05e6d13cfa90af6eb226a554b18f",
+  "text": "Name two or three gates, each with the evidence that would open it."
+ },
+ {
+  "hash": "673c12d2415e6564736312f8ac473f081ceea7d6",
+  "text": "Take the ideas you picked. Put numbers on each, and tell me whether Unicloth breaks even."
+ },
+ {
+  "hash": "68be1b82aa06b41fdd050f63aa03761b8c97279e",
+  "text": "1,375 items times 40 dollars is 55 thousand a day, times 3 stores is 165 thousand a day, times 365 is about 60 million. The 126 million option is the whole company, all four stores. Everyday version: 55 thousand a day is like ringing up 1,375 items at 40 dollars each, every single day."
+ },
+ {
+  "hash": "69835af90542de92988111275ddc17039e87e70b",
+  "text": "STRONG BRAINSTORM, GROUPED BY THE PROFIT TREE"
+ },
+ {
+  "hash": "6a39d2f9be421b08594592b21a52e1c8a8bbb4eb",
+  "text": "Interviewer: \"Sure, go ahead.\" In a candidate-led case, the interviewer hands you the wheel right away. Taking it confidently is part of the test."
+ },
+ {
+  "hash": "6b8248e77bdf546a72b406bf06ab354ecbbe4710",
+  "text": "1 · COGS$125M × 70%≈$90M"
+ },
+ {
+  "hash": "6d88f9add371bc306c9de2a52d99b32b8bdba77f",
+  "text": "In a BCG-style case, you drive. After the prompt, you lay out a structure, decide where to dig first, and ask for the data you need. The interviewer hands you numbers and pushes on your logic."
+ },
+ {
+  "hash": "6f77a349e978909342220c0ea2e78fc1c0518eaf",
+  "text": "Stock-keeping unit: one specific product, like a blue medium sweater. Getting the right SKUs for a market is what a redesign buys."
+ },
+ {
+  "hash": "6fe08b74f87cf76f6d073fd8b747a326b0e7b829",
+  "text": "Let's build revenue from what we know. Each mall store sells about 1,375 items a day, and the flagship sells about 4,500. The average item is 40 dollars. What's annual revenue?"
+ },
+ {
+  "hash": "72fde9473c80c3787090611072400a3ca41bbd3b",
+  "text": "Live interviews run about 45 minutes: around 30 for the case, and 10 to 15 for fit questions."
+ },
+ {
+  "hash": "756e5e5e166b00284caebe169837b36ab563ee24",
+  "text": "Case data, from the Wharton Casebook 2017."
+ },
+ {
+  "hash": "77c447f5324f1881f983d18ac29708850ff43535",
+  "text": "PRICE × VOLUME"
+ },
+ {
+  "hash": "78ad2f061ee756222f933c1d8809b5fe279edeee",
+  "text": "THE TEAM'S SCORES, WITH REASONS"
+ },
+ {
+  "hash": "78ebedcf61a2675dcdea69916e01090ce03b73e8",
+  "text": "Better sell-through means fewer returns to the warehouse and fewer markdowns, which the redesign also helps."
+ },
+ {
+  "hash": "7931b3cf4ea0fab03c0f160d3292abd6a41771c0",
+  "text": "3 · Flagship, per year4,500 × $40 = $180K/day × 365≈$66M"
+ },
+ {
+  "hash": "7af51bbbe4da11d1a2b5d515edebfdc619923f82",
+  "text": "4 · Total vs. the gap$4.5M + $1.75M + $11M = $17.25M+$4.25M profit"
+ },
+ {
+  "hash": "7d1929738479885fa4242655521382cca34b0e47",
+  "text": "\"So Unicloth came to the US five years ago, sells mid-tier casual clothing through three mall stores and a Fifth Avenue flagship, and still isn't profitable. The CEO wants to know why, and what to do next. Is that right? Before I structure it, a few quick questions.\""
+ },
+ {
+  "hash": "7e7344d690af7485b3cb7d3fb3134c9a28130979",
+  "text": "Do the math. Round numbers, every step out loud, then sanity-check."
+ },
+ {
+  "hash": "80d814d412f4d452d3eab2d3f775c26d492a41f0",
+  "text": "Start broadUS population≈330M"
+ },
+ {
+  "hash": "83b7c519a73bd59e9b6954b267d10176cafbee6a",
+  "text": "\"Third, and biggest, fix the product for this market. American customers find the styles too conservative, the colors too muted, and the sizes run small. Redesigning for the US and manufacturing separately costs 12 million a year but adds 23 million of revenue, so 11 million net.\""
+ },
+ {
+  "hash": "83e901cfc2c57bc033826c96c05ce1473f86ed41",
+  "text": "3 · US redesign, net+$23M − $12M+$11M"
+ },
+ {
+  "hash": "83f547644a0230e4b02c11059ea970f1105ba6d4",
+  "text": "Notice how each gate reuses a number from the case. Grounded judgment beats generic lists."
+ },
+ {
+  "hash": "840e9f9c90de558a2c8f883813de5dd4fd09ae2c",
+  "text": "2 · Three mall stores, per year$55K × 3 = $165K/day × 365≈$60M"
+ },
+ {
+  "hash": "8566d6b6ebe7a2936a5cee215d47a202b7fcddd3",
+  "text": "The casebook flags this on purpose: the CEO is a woman, and interviewers watch for candidates who reflexively say \"he.\" Small habit, real signal."
+ },
+ {
+  "hash": "88265218721f3acdc4986f61ec245c8e73cd3e2a",
+  "text": "Take no for an answer. When the interviewer rules an idea out, move to the next one without defending it."
+ },
+ {
+  "hash": "891f8b94c7459a349db8c3dbeedf17e43b709565",
+  "text": "Say it like this"
+ },
+ {
   "hash": "89a0aefc99fbca8c4b26a9fc50ea5e253934880d",
   "text": "QuantifyPut numbers on it."
+ },
+ {
+  "hash": "8d7ac62d02bb4b9291e645611cbc8f7388d1bdc5",
+  "text": "A brand's showcase location, run for image as much as sales. Fifth Avenue rents don't get judged like a mall store."
+ },
+ {
+  "hash": "8e6d2ad9575dc9f3cfc886c2260b8fefc6fde36e",
+  "text": "Clarifying questions"
+ },
+ {
+  "hash": "8eb1bb88019a6ff73f3af0ce643c72f8b8a02a12",
+  "text": "What do they sell, and how does it fit US customers?"
+ },
+ {
+  "hash": "8fbf5059c7042e1c2adac6a2fb0ee9229cac26d0",
+  "text": "This is the case's market sizing rep: state the formula, use round numbers, and say every step out loud."
+ },
+ {
+  "hash": "9081300dd752cc7160c72ad471729f81d2ade2ff",
+  "text": "SAY IT LIKE THIS"
+ },
+ {
+  "hash": "90b4c53cd41004e7733531244aa7828f7a959930",
+  "text": "Good list. Here are the numbers. Fill in each bucket and get me to a total."
+ },
+ {
+  "hash": "9128c876c338b784e32fa6a123d41630c66ff64a",
+  "text": "Revenue: build it from store traffic"
  },
  {
   "hash": "9230215a7efeacd957ff3e742ee18c8e01240e6e",
   "text": "RecommendAnswer first."
  },
  {
-  "hash": "f7d6592153f947f1368bd4d3d5f5dc44bb9bd0ee",
-  "text": "What exactly does Unicloth sell, and where is it made? Casual clothing: jeans, t-shirts, knit sweaters, dresses. The designs follow the home market in Asia, and manufacturing is in China and Bangladesh."
+  "hash": "961af58694bea9cc18540c26aa34e86bf547c909",
+  "text": "Quick math"
  },
  {
-  "hash": "ae08e6d604fcd1d95be7e0eef002326d72ca0701",
-  "text": "How is the US retail market doing? Stable. No downturns, no notable new entrants. This is not a market problem."
+  "hash": "967f6b29c1fc36ac9d2cea7f6ca7ef6b26d9df8e",
+  "text": "Since arriving five years ago, Unicloth has struggled to build a profitable US presence. The CEO has engaged us to find out why, and to recommend next steps. How can we help?"
  },
  {
-  "hash": "3d637ac9d2befbc422928bda9e39c1ec332d7f6f",
-  "text": "Where does the pricing sit? About 40 dollars average, in line with the American retailer Bap and a bit below the European retailer Mara."
- },
- {
-  "hash": "293bc8c8ac7be5ac873cc73efbc2d7a66b750e31",
-  "text": "What does success look like? A profitable US operation. The client hopes to expand into the suburbs later, but profitability comes first."
- },
- {
-  "hash": "a07ca0325d3b3988ffce98f89e7e04418ec80c37",
-  "text": "Who is the CEO? She's been in the role for two years. She'll join at the end to hear your recommendation."
- },
- {
-  "hash": "5f7a43cf6477d07cdc0a4a3f783f9cfcd9939162",
-  "text": "1 \u00b7 One mall store, per day1,375 \u00d7 $40$55K"
- },
- {
-  "hash": "840e9f9c90de558a2c8f883813de5dd4fd09ae2c",
-  "text": "2 \u00b7 Three mall stores, per year$55K \u00d7 3 = $165K/day \u00d7 365\u2248$60M"
- },
- {
-  "hash": "7931b3cf4ea0fab03c0f160d3292abd6a41771c0",
-  "text": "3 \u00b7 Flagship, per year4,500 \u00d7 $40 = $180K/day \u00d7 365\u2248$66M"
- },
- {
-  "hash": "6178be783bc231753bde728f513ade095141b501",
-  "text": "4 \u00b7 Total revenue$60M + $66M \u2248 $126Mcarry $125M"
- },
- {
-  "hash": "6b8248e77bdf546a72b406bf06ab354ecbbe4710",
-  "text": "1 \u00b7 COGS$125M \u00d7 70%\u2248$90M"
- },
- {
-  "hash": "c17a5cf567a6c3ddc145cb1c457dafbb46771903",
-  "text": "2 \u00b7 Rent$18M + $7.2M\u2248$25M"
- },
- {
-  "hash": "c943ad2b2e4d26a3e2b45cee0a9a44ee17c839d9",
-  "text": "3 \u00b7 Maintenance and utilitiesgiven$5M"
- },
- {
-  "hash": "1194b0134eda3a36e6a80585f4a3fbc12bd7fbec",
-  "text": "4 \u00b7 Labor$4.4M + $0.5M + $0.53M + $0.3M\u2248$6M"
+  "hash": "976afbc63fd0e3b2edaad912e9de82f5ed7151bc",
+  "text": "How is the US retail market doing?Stable. No downturns, no notable new entrants. This is not a market problem."
  },
  {
   "hash": "9867e597a9fe00f284907dcacb0695a06fb73c9d",
-  "text": "5 \u00b7 Storage, returns, markdownsgiven$12M"
+  "text": "5 · Storage, returns, markdownsgiven$12M"
+ },
+ {
+  "hash": "9914b0f2545d01f9a62cd294d92e84dce0535160",
+  "text": "Three levers the interviewer will let you have. Put a dollar figure on each, then add them against the 13 million gap."
+ },
+ {
+  "hash": "996e06c5a5d6bf5845f034dde856edd9b6351e00",
+  "text": "Competitors and their pricing."
+ },
+ {
+  "hash": "a40a3fe48d39379e59d6302d4f2d84bdc737c9ed",
+  "text": "Many offices use an online test first, like Casey, a chatbot case of about 30 minutes."
+ },
+ {
+  "hash": "a530fc3a864c1538bc1db269a72659b998aa3acb",
+  "text": "Together the levers are worth $17.25M a year against a $13M gap."
+ },
+ {
+  "hash": "ac45ee4a4a8219078ab0683b89da5c17c02630db",
+  "text": "How the interview runs"
+ },
+ {
+  "hash": "ac9e11ad7a03361d8aae99ce2ae53dc82e48fb78",
+  "text": "The cost of unsold inventory."
+ },
+ {
+  "hash": "acb2334a340688fedb8445f95caf0e1309f44f51",
+  "text": "All inputs are interview-style assumptions, not market research."
+ },
+ {
+  "hash": "af35423596c50797e49ff30ad426f55bda8dc2d4",
+  "text": "You choose the path; the interviewer follows and pushes back"
+ },
+ {
+  "hash": "af79d544bae8aa43e84f437addbffca6dfda5555",
+  "text": "Go top-down: population, spend per person, then the casual share. Say each assumption out loud."
+ },
+ {
+  "hash": "af8f5e12017fbbe3d69428827ca2241a471522fb",
+  "text": "Profit equals revenue minus costs. Split revenue into price times units, and costs into COGS, rent, labor, and everything else."
+ },
+ {
+  "hash": "aff086512abe25e2ec654d1a85e6b72313caa6f4",
+  "text": "Bonus drills: sizing and judgment"
+ },
+ {
+  "hash": "b40fbe47a8fa3d6e05d81ed61e5c01f5ffd8b2d9",
+  "text": "Math built into the questions, done cleanly and out loud."
+ },
+ {
+  "hash": "b902fc86802fd119c7c6ecf549dc404ca62aad7b",
+  "text": "Manufacturing is already as cheap as it gets, so attack logistics: ship by sea instead of air."
+ },
+ {
+  "hash": "b9b41615d12e8fe4d1aaed546d53c16e42d13f3f",
+  "text": "Indicators to track"
+ },
+ {
+  "hash": "bbf80c118fd47bc98ecd944be6126410c75ad124",
+  "text": "COGS is 70 percent of revenue, 90 million, nearly two-thirds of the whole cost base. But watch the flagship: 18 million of rent is more than the labor of all four stores combined. That's the bucket with judgment in it."
+ },
+ {
+  "hash": "bcda391c0178a4d26c77ea6f016de0111c634dac",
+  "text": "What each lever adds. The vertical line marks the 13 million gap."
+ },
+ {
+  "hash": "bd4447f0e7fb9c4c500216197d666a73f993d41e",
+  "text": "Sell-through at full price as the new US line lands, fewer markdowns."
+ },
+ {
+  "hash": "be6dc4a03f2993327089e517e8428641c413fded",
+  "text": "Leading the case: you choose the next step, and say why."
  },
  {
   "hash": "be88fbc5b820bc9202cfd16f8bdce4368f3f7609",
-  "text": "6 \u00b7 Total vs. revenue$138M \u2212 $125M\u2212$13M"
+  "text": "6 · Total vs. revenue$138M − $125M−$13M"
  },
  {
-  "hash": "4a6a5a30bf1f6c6ed605da9bb6fd12c94e16615b",
-  "text": "1 \u00b7 Sea shipping$90M \u00d7 5%+$4.5M"
+  "hash": "bf4b8f12d94836e15f6468c68aa2edf370a4b274",
+  "text": "The exact figures are 60.2 and 65.7 million. Saying \"about 60 and about 66, so I'll carry 125\" is exactly the rounding a good candidate does out loud."
  },
  {
-  "hash": "45572ab35209eb94d6141203edf03da82d27ba02",
-  "text": "2 \u00b7 Coffee partnershared flagship rent+$1.75M"
+  "hash": "c0a99b49019bb6761b44351c582dc622d7e8ae26",
+  "text": "Take 60 seconds to sketch your structure. Then walk through it, say where you'd start, and ask for specific data."
  },
  {
-  "hash": "83e901cfc2c57bc033826c96c05ce1473f86ed41",
-  "text": "3 \u00b7 US redesign, net+$23M \u2212 $12M+$11M"
+  "hash": "c0f2f639b0cb11ae589e0d42d8622fc90a5760c3",
+  "text": "Why it works: revenue and costs together cover all of profit, the product and market buckets catch the real cause of this case, and it ends with a hypothesis and a specific ask."
  },
  {
-  "hash": "7af51bbbe4da11d1a2b5d515edebfdc619923f82",
-  "text": "4 \u00b7 Total vs. the gap$4.5M + $1.75M + $11M = $17.25M+$4.25M profit"
+  "hash": "c15e4aba1612082cbd69e1957944ef59bf1e6c84",
+  "text": "Share the flagship with a partner. Moving the flagship or closing mall stores are off the table: the flagship is the marketing, and management wants suburban expansion later."
  },
  {
-  "hash": "80d814d412f4d452d3eab2d3f775c26d492a41f0",
-  "text": "Start broadUS population\u2248330M"
+  "hash": "c17a5cf567a6c3ddc145cb1c457dafbb46771903",
+  "text": "2 · Rent$18M + $7.2M≈$25M"
  },
  {
-  "hash": "f6fe8f3fb255e540a21c6a2068855d8e5cdced7a",
-  "text": "\u00d7 ~$800 per person, per yearAll clothing\u2248$264B"
+  "hash": "c229e38c1f1365447c94520426184c041bf51e4f",
+  "text": "Recommend. The answer first, then reasons, risks, and next steps."
  },
  {
-  "hash": "122112e189f161d4d90366f42af76e2b62521998",
-  "text": "\u00d7 ~50% casualCasual share\u2248$130B"
+  "hash": "c3d5369e55a0efdf72b80e0066aa80a5c6f0e968",
+  "text": "You're 13 million in the red. What could Unicloth do? Brainstorm first. Then score the six ideas the team wrote up for ease and impact, from 1 to 5, and pick your top three."
  },
  {
-  "hash": "0e0695df4f1bd61006faabd72da14e79586716d9",
-  "text": "Sanity checkUS apparel \u2248 $250\u2013300B\u2713"
+  "hash": "c5cf5766f8b73182e4aade66f5996274a8577d93",
+  "text": "Your dots appear here as you score each idea."
+ },
+ {
+  "hash": "c8b8096d1b492188c4d44f360d338eafd34e51be",
+  "text": "Skip questions that don't change your approach, like which colors sold best last year. Two or three sharp questions beat six generic ones."
+ },
+ {
+  "hash": "c9438b7aab7f485609b5dd33800780c41e0e618f",
+  "text": "\"Revenue is about 125 million a year: roughly 60 million from the three mall stores and 66 million from the flagship. Notably, the flagship, one store, outsells all three mall stores combined, which tells me it's carrying the brand as well as the sales. To see whether that's healthy, I need the cost side.\""
+ },
+ {
+  "hash": "c943ad2b2e4d26a3e2b45cee0a9a44ee17c839d9",
+  "text": "3 · Maintenance and utilitiesgiven$5M"
+ },
+ {
+  "hash": "c960e8a37596c41b8031100326f9cc7c36ef671e",
+  "text": "Rent on the flagship and the three mall stores, plus maintenance and utilities."
+ },
+ {
+  "hash": "cb2d0f102e89719ef0ce99bb0a4a995996ff04f4",
+  "text": "Yearly costs by bucket. The vertical line marks revenue."
+ },
+ {
+  "hash": "ce0688ea6e5a2916713cd8b01649d28c30b7001d",
+  "text": "STRONG BRAINSTORM, GROUPED"
+ },
+ {
+  "hash": "cf40a0f2f5aaee7152d7c02c95d4ee459e4dc68e",
+  "text": "Ask two or three clarifying questions. Pick ones whose answers would change your approach."
+ },
+ {
+  "hash": "d03dcaf6330c4976d5c4f7a21a645cc807f7407d",
+  "text": "It sells casual clothing, think jeans, t-shirts, knit sweaters and dresses, in four US stores: three mall stores and one flagship on Fifth Avenue in New York. The average item is about 40 dollars."
+ },
+ {
+  "hash": "d1633b99cac46ea46cf4b9bf0118ebc911b63a56",
+  "text": "Which three come first?"
+ },
+ {
+  "hash": "d525548f59ac31a46e24c3ebba751cc603d607d7",
+  "text": "STRONG ANSWER"
+ },
+ {
+  "hash": "d899f98250ea55e7519c98164d1ba87bd71993e4",
+  "text": "\"Profit is revenue minus costs, so I'll split it that way. On the product side: what Unicloth sells and whether it fits US customers. On the market: competitors and pricing. On revenue: the average price, about 40 dollars, and units sold per store per day. On costs: COGS, which I'd guess is the biggest line, then rent, which for a Fifth Avenue flagship could be very heavy, then labor, store upkeep, and the cost of handling unsold inventory. My hypothesis is that the cost base is out of line with US revenue, and I'd like to start there. Could I see the sales and cost figures?\""
+ },
+ {
+  "hash": "d9014a25778304eee58b7d2d85848e3f20e7099b",
+  "text": "The inventory bucket is the one candidates forget, and it's 12 million dollars a year in this case. Unsold clothes aren't free."
+ },
+ {
+  "hash": "d929a86bd2f20d5240679a7d0e41df8740fb4ffc",
+  "text": "Before I hand you numbers: which costs would you expect a retailer like this to have?"
+ },
+ {
+  "hash": "daaaf20a3ace324955256427f43bbb581c24440f",
+  "text": "Score = ease × impact. Ideas are from the case; scores are yours to set."
+ },
+ {
+  "hash": "db279eea65f7bf97e6b39285a0fbaa76d80ac476",
+  "text": "\"First, ship by sea instead of air. Manufacturing is already as cheap as it gets, but logistics isn't: that's 4.5 million a year.\""
+ },
+ {
+  "hash": "db3733f06fbdb7844a2d813b232d39b93cce0153",
+  "text": "Structure. You set the plan and say where you'd start, with a reason."
+ },
+ {
+  "hash": "dc4a745a531b8fbfa8c701e27616e84bb7314bf4",
+  "text": "Brainstorm in groups for 60 seconds, then score the six ideas. Expect the interviewer to rule some out, that's the test."
+ },
+ {
+  "hash": "dd3b86d1ef21b9fb2e1edc30f524e7afb491b1ad",
+  "text": "Product"
  },
  {
   "hash": "dd56d94e62aace6d35edaf4e6dac0dee569aa785",
-  "text": "Unicloth check$125M \u00f7 $130B \u2248 0.1%\u2713"
+  "text": "Unicloth check$125M ÷ $130B ≈ 0.1%✓"
  },
  {
-  "hash": "bfeabb109271e199a41f7389405539bb8decf42f",
-  "text": "Step 1. One mall store. 1,375 items times 40 dollars is 55 thousand dollars a day."
+  "hash": "de427b0bf4e2727e106c0916cc6f62ddf5449062",
+  "text": "What they look for"
  },
  {
-  "hash": "66170483ba3878d6fd93784c463b0d577fc47676",
-  "text": "Step 2. All three mall stores. 3 times 55 thousand is 165 thousand a day. Times 365 days, that's about 60 million dollars a year."
+  "hash": "dea156601f8379b9b9873997477ed76efc63a53d",
+  "text": "Costs: find the $13M gap"
  },
  {
-  "hash": "34f3712c0184ab8230397348969a5c3215c46028",
-  "text": "Step 3. The flagship. 4,500 items times 40 dollars is 180 thousand a day. Times 365, that's about 66 million dollars a year."
+  "hash": "e384f9f7d0838bb158b1bf92f6497fe11cdb2928",
+  "text": "The recommendation"
  },
  {
-  "hash": "9afa07f58e2fd54bed5efa1c9131712ecb3a1ca6",
-  "text": "Step 4. Total. 60 million plus 66 million is about 126 million. Carry 125 million as the working number, and say that out loud so the interviewer can correct you if they carry something else."
+  "hash": "e7e0787f45233cd38aa83ef331ba7b8a639cbf2c",
+  "text": "How big is the US market for casual clothing?"
  },
  {
-  "hash": "59707556d1536630981e868d014ff7a8e239aeae",
-  "text": "Step 1. COGS. The margin on clothing is 30 percent, so costs are 70 percent of revenue. 125 million times 0.7 is 87.5 million, round to 90."
+  "hash": "e8f4e4c60dcd42fc47c1e8c27cacbcfb6fb5646b",
+  "text": "What does success look like?A profitable US operation. The client hopes to expand into the suburbs later, but profitability comes first."
  },
  {
-  "hash": "0a1a60d8cca7b67e63bb36ec8e1ba2694f33be19",
-  "text": "Step 2. Rent. The flagship is 1.5 million a month, 18 million a year. The three mall stores are 200 thousand a month each, 600 thousand a month, 7.2 million a year. Round to 25 million together."
+  "hash": "ec535c933d9f02afa256ff7b38718077a95f8b9b",
+  "text": "Cutting the price of unsold inventory. Heavy markdowns are a signal the product isn't selling at full price."
  },
  {
-  "hash": "95207799182927bbb5badd4553c17f4023972cdd",
-  "text": "Step 3. Maintenance and utilities, given: 5 million a year."
+  "hash": "ecf7826ef65a31e29f262025c320bac8595ecde3",
+  "text": "Source: Unicloth finance team (case data, Wharton Casebook 2017)."
  },
  {
-  "hash": "8d2e239c9d544b8851046d342df815b29e107568",
-  "text": "Step 4. Labor. Flagship: 500 associates at 20 hours a week and 8 dollars 50, that's 85 thousand a week, about 4.4 million a year, plus 5 managers at 100 thousand, half a million. Mall: 60 associates works out to about 530 thousand, plus 3 managers at 300 thousand. Round the whole thing to 6 million."
+  "hash": "ee81a4255be21867478ed7538ff968eacddc45b6",
+  "text": "The fix, in numbers"
  },
  {
-  "hash": "3f02e65862ef78f6a6d626e9fc77573d148144dd",
-  "text": "Step 5. Storage, shipping unsold clothes back, and markdowns, given: 12 million a year."
+  "hash": "f01075fd35a1abf267dee62b41f25dd8ce9b62e6",
+  "text": "Management wants to expand into the suburbs once things improve. What would you want to see before recommending it?"
  },
  {
-  "hash": "fd9da3ed6d1c87d5c4dfa1c7eda788e0d491d0f1",
-  "text": "Step 6. Total. 90 plus 25 plus 5 plus 6 plus 12 is 138 million. Against 125 million of revenue, Unicloth is 13 million in the red."
+  "hash": "f1c72e1b266a154f6c3c2ab05cabf70c8b0bbd4c",
+  "text": "Quick check: where does most of the cost sit?"
  },
  {
-  "hash": "2da311e48b7f5debc0c8ce59a5ce88b9ec2e0987",
-  "text": "Step 1. Shipping by sea instead of air. 5 percent of the 90 million COGS base is 4.5 million saved a year."
+  "hash": "f2de76a2377399df9406640465347c5941d5c5a8",
+  "text": "The CEO is about to walk in. She has 60 seconds. What should Unicloth do?"
  },
  {
-  "hash": "d3bac5033fe9fbe147492b777220f30f435cd3e5",
-  "text": "Step 2. The coffee partner at the flagship shares the rent: 1.75 million a year, and it may bring in more shoppers as a bonus."
+  "hash": "f41d42f7361b8c3d5e7efdc5d297fe12a0e6d7a5",
+  "text": "\"I'd start with three. Shipping by sea, because it's cheap to do and saves about 4.5 million a year. The coffee-shop partner at the flagship, because it trims the rent and pulls in more foot traffic. And the US redesign, because it's the only idea that fixes the actual problem, the product doesn't fit the market. The others either clash with management's plans, like closing mall stores, or can wait, like online.\""
  },
  {
-  "hash": "c53b5ded9ad9f9a9e43cc7b914c8c00332d10a25",
-  "text": "Step 3. The US redesign. It costs 12 million a year to redesign the line and manufacture separately for the US, but adds 23 million of revenue. Net: 11 million."
+  "hash": "f563e1d31ac912afb32b2dd225e3697e9cdc012b",
+  "text": "\"Together that's 17.25 million against a 13 million gap, so Unicloth turns a profit of about 4.25 million a year. The main risks: an unreliable partner at the flagship, a redesign the US market still doesn't love, and slower stocking once we ship by sea. Next steps: run the partner search, do market research to lock the right SKUs for the US line, and rework US warehouse lead times so the slower boats don't empty the shelves.\""
  },
  {
-  "hash": "0a03e2aed8baa8098a8d5bcacbf64d97a6226ab1",
-  "text": "Step 4. The total. 4.5 plus 1.75 plus 11 is 17.25 million, against a 13 million gap. Unicloth breaks even and clears about 4.25 million in profit."
+  "hash": "f64c0bf3c3a935800df308da66427aee20eb27ce",
+  "text": "\"Unicloth can turn profitable this year. It's 13 million in the red on 125 million of revenue, and three moves are worth more than that gap.\""
  },
  {
-  "hash": "8edf067126d7aea1780805eb130feceac5e4f81f",
-  "text": "Start broad. The US has about 330 million people."
+  "hash": "f6fe8f3fb255e540a21c6a2068855d8e5cdced7a",
+  "text": "× ~$800 per person, per yearAll clothing≈$264B"
  },
  {
-  "hash": "0ba2ecc997c2d7fab3a0dab6474f85401eb9b3bb",
-  "text": "Times about 800 dollars of clothing per person per year, a reasonable average across ages and incomes. That's about 264 billion dollars of total apparel."
+  "hash": "f9717190623524350b00a90811da4c0f328bda4e",
+  "text": "Usually two or three interviews in the first round, then two or three in the final round."
  },
  {
-  "hash": "d9a0b229e1a7051f3d6994c6bddfeedf9ce9d8ea",
-  "text": "Casual clothing is roughly half of that, jeans, t-shirts, sweaters, dresses. Call it about 130 billion."
+  "hash": "f9b787e39273eac96a4d9c17469f843188d6a8b9",
+  "text": "Economic conditions and new entrants."
  },
  {
-  "hash": "452fd417addc5d4062b78981e6c76ba015e91278",
-  "text": "Sanity check. US apparel spending runs around 250 to 300 billion a year, so the total line is in range."
+  "hash": "fbac8589b57fa7bfdf0859f535415709a32a21e7",
+  "text": "WHAT IT TAKES TO RUN"
  },
  {
-  "hash": "e7bf434ac1f2cbd8c35216d637b34fa7074a377f",
-  "text": "Unicloth check. 125 million of revenue is about a tenth of one percent of a 130 billion dollar market. Tiny share, lots of room. The problem is unit economics, not market size."
+  "hash": "fc89e6704b9d07cbcc41ac967f6216963ff04547",
+  "text": "WHAT THE CASE FEELS LIKE"
  },
  {
-  "hash": "92ce1e94052d2ddc00c32f2e63df944dca517461",
-  "text": "${r.id}. ${r.n}. ${HM.xName} ${r.x}, ${yn} ${r.y}, score ${r.x*r.y}. ${r.w}"
- },
- {
-  "hash": "3751f8169ec75161de51fc3e3dcbe85b6660f48b",
-  "text": "Question ${n+1}. ${t.q.replace(/"
- },
- {
-  "hash": "ed5f53223e26b871bdbd98463b0ff1de9c52a94d",
-  "text": "${o.replace(/"
- },
- {
-  "hash": "a9304ebc9930ec9afa7acf09667607ee276454a0",
-  "text": "${t.w.replace(/"
- },
- {
-  "hash": "dd8a1d265b865b847e721940f1d45be138f547d8",
-  "text": "Question 1. In a candidate-led case, who decides what to analyze next?"
- },
- {
-  "hash": "e9067cfb7945100707d4cb4acc2d55b886900162",
-  "text": "A. You do"
- },
- {
-  "hash": "ae0935ae993c6fb05bbd3728dfbc15b35c994769",
-  "text": "B. The interviewer, always"
- },
- {
-  "hash": "812848834ae0ab4932f3d7a852d522f5ec27058e",
-  "text": "C. The client"
- },
- {
-  "hash": "2fa2e639cd9ffa1c7fac92089e2f8ce6a40fc1ae",
-  "text": "D. Nobody; it is random"
- },
- {
-  "hash": "ef7027469e9c73536952754b1970372824f18b90",
-  "text": "You set the structure, choose where to dig, and ask for data. The interviewer follows and pushes back."
- },
- {
-  "hash": "a44d45265f0a69d4b30da3eb52f833b8356389c1",
-  "text": "Question 2. Unicloth's revenue is $125M and its costs are $138M. The result is\u2026"
- },
- {
-  "hash": "ebb8a500fb8b09b0f1e14d588716b6071b05245f",
-  "text": "A. $13M of profit"
- },
- {
-  "hash": "8af05d0ef4524c44791d6e1c0870e95ddf933043",
-  "text": "B. $13M in the red"
- },
- {
-  "hash": "ee071bab6ece8351df30bc2f686ff7a202cc2056",
-  "text": "C. $263M of revenue"
- },
- {
-  "hash": "ce7e0bd106b75d2753e91ec3556c965fe1bd4000",
-  "text": "D. Exactly break-even"
- },
- {
-  "hash": "d2a27df7537b18ffa862e37fcf5ab7c24d98e914",
-  "text": "Costs exceed revenue by 13 million. That gap is what the three levers have to close."
- },
- {
-  "hash": "b349e3532e4047d7b5c0d52faa4739cd3045fb80",
-  "text": "Question 3. The margin on clothing is 30%. COGS on $125M of revenue is\u2026"
- },
- {
-  "hash": "77ced4d4e5d9da3b3820ff67fcfd94f1ddde5d47",
-  "text": "A. $37.5M"
- },
- {
-  "hash": "ea826b0efdb353fba1ff41f8547ac769f1b05608",
-  "text": "B. $95M"
- },
- {
-  "hash": "8730059b50196bc1874a2e9b2f54b68ee2c4c714",
-  "text": "C. $87.5M"
- },
- {
-  "hash": "d9ca0ebbfa3db4b20855c9b579cd4020444d1487",
-  "text": "D. $125M"
- },
- {
-  "hash": "945db32465e47b8e3ade72d49286787b5d57827e",
-  "text": "If Unicloth keeps 30%, the clothes cost 70%: 125 times 0.7 is 87.5 million, rounded to 90 in the case."
- },
- {
-  "hash": "e98ba732fe61c04e92c3faf65bae24050d98baf3",
-  "text": "Question 4. Which of Unicloth's costs is fixed?"
- },
- {
-  "hash": "38d24064c5aa25214c9bf36f53e88677436188a6",
-  "text": "A. Flagship rent"
- },
- {
-  "hash": "2c4ab7814bb66e09e7516b439af747a8b4ee1014",
-  "text": "B. COGS"
- },
- {
-  "hash": "c435a018616b46cba85fab7f8e6fd7fdb9aab639",
-  "text": "C. Sea freight per item"
- },
- {
-  "hash": "12b75821ae8d2c4042bd9c9b70247cf490df72c4",
-  "text": "D. Markdowns"
- },
- {
-  "hash": "d19827600d1267120ba977e7dab7b1d4e97692bd",
-  "text": "Rent stays the same whether the store sells 100 items or 10,000. The others move with sales."
- },
- {
-  "hash": "a15a76a04c58f4433ef3bcd1db8fd6504e10bd1d",
-  "text": "Question 5. The flagship sells 4,500 items a day at $40. Daily revenue is\u2026"
- },
- {
-  "hash": "6598d989fa98a8b532a257084bc74f257dcc505c",
-  "text": "A. $18K"
- },
- {
-  "hash": "11e908c12d99a0a5d364917575126b82b51a0d54",
-  "text": "B. $45K"
- },
- {
-  "hash": "b01fe86a83df3869a7742c7efd590dc0a306fcc3",
-  "text": "C. $180K"
- },
- {
-  "hash": "60d41f8e5a5d97cd33cb4473bb25b4b9d1d0565f",
-  "text": "D. $1.8M"
- },
- {
-  "hash": "69526b11985d594b00f4b7a5835429b2d219b69c",
-  "text": "4,500 times 40 is 180 thousand a day, about 66 million a year. One store outsells all three mall stores combined."
- },
- {
-  "hash": "c339a1a305196436f0da7064f9e39ee5e2578f49",
-  "text": "Question 6. Why doesn't Unicloth just lower prices?"
- },
- {
-  "hash": "debf371f5e115efdd1a73ebaa6bbfd75f30f4bd5",
-  "text": "A. Prices are set by suppliers"
- },
- {
-  "hash": "44a10f0315396fd102e60b93760f9e77dd106b7e",
-  "text": "B. It would deepen the loss: this is a margin problem"
- },
- {
-  "hash": "6bc46c2dab58655b20a31ba2edd5724191fb0cc0",
-  "text": "C. Competitors would match instantly"
- },
- {
-  "hash": "1186a9f0ea198765b93849deee82e899f094edc1",
-  "text": "D. Lower prices raise COGS"
- },
- {
-  "hash": "55df86c46e0355847414826dc1ca7b3e94af2fdf",
-  "text": "Unicloth loses money because costs exceed revenue. Cutting price cuts revenue per item and makes the gap worse. The casebook's interviewer says no to this idea."
- },
- {
-  "hash": "3ea1d324f5b1bec5cd7decc0749f57f583967bb8",
-  "text": "Question 7. Switching from air to sea saves 5% of a $90M COGS base. Annual savings:"
- },
- {
-  "hash": "99aba7e2ad3fefbf410808999dcb0d014ab03b1e",
-  "text": "A. $4.5M"
- },
- {
-  "hash": "dd91ce21e3e0731a0f39e4911e0ceb7f4591f2e5",
-  "text": "B. $45M"
- },
- {
-  "hash": "87ec4d3419352c52265949b3ce727d7e25b0140d",
-  "text": "C. $450K"
- },
- {
-  "hash": "897f37f6b0a06734279fbf05263cf82ce8e5d1f3",
-  "text": "D. $9M"
- },
- {
-  "hash": "10e4685d7334142ddc404b8bc1fdeb96b7fccf90",
-  "text": "90 million times 5% is 4.5 million a year."
- },
- {
-  "hash": "a171dd0708eb3bddf4a6e410e3aaadfe93783577",
-  "text": "Question 8. The US redesign costs $12M a year and adds $23M of revenue. Net effect:"
- },
- {
-  "hash": "4c43fe2dcdd94a5a5b63174837ce5227ac3cfc8f",
-  "text": "A. +$23M"
- },
- {
-  "hash": "5f62106b2b576e3ad62c70cf9d61b2d0189e567d",
-  "text": "B. \u2212$12M"
- },
- {
-  "hash": "6b674d9675ad0fb24d86ec9c8f97acd4a27f0d36",
-  "text": "C. +$11M"
- },
- {
-  "hash": "a6a979637228633dd0d3e274e1b02468fc05f248",
-  "text": "D. +$35M"
- },
- {
-  "hash": "12d24deb3de33496ba28ca054755f2ea28ed3ae3",
-  "text": "23 minus 12 is 11 million net. It costs money and makes money; the net is what counts."
- },
- {
-  "hash": "2d2e73ce65d6ebb73ea2395fffbe187fa7e25579",
-  "text": "Question 9. Why keep the flagship despite $18M of annual rent?"
- },
- {
-  "hash": "311e173f5cbd88c1331c5f8630bdacea050a7b41",
-  "text": "A. Leases cannot be broken"
- },
- {
-  "hash": "78e1ed733bac3d0d23d8ab241aee6fdde7a24c21",
-  "text": "B. It is the marketing: the brand's showcase"
- },
- {
-  "hash": "68ed40ea25fe974f7c8deade39a48da1884f2458",
-  "text": "C. Mall stores cost more per store"
- },
- {
-  "hash": "b5b3338ebb422449d2f25aed677a9f58b6475445",
-  "text": "D. The flagship barely loses money"
- },
- {
-  "hash": "01454f6b0f36254c7c66d8326b3a64f2aa73f3a6",
-  "text": "The casebook is explicit: moving the flagship is off the table because it carries the brand. A store can be judged on image, not just profit."
- },
- {
-  "hash": "0ff620cb5d066067870eaa67fd3832ffa9aac955",
-  "text": "Question 10. Styles too conservative, colors too muted, sizes run small. This is a problem of\u2026"
- },
- {
-  "hash": "b9bd4fe43826cc576e8acb2731b7a0054548483f",
-  "text": "A. Distribution"
- },
- {
-  "hash": "effd8f12201df23f9501c05076c8befd19b15ecb",
-  "text": "B. Pricing"
- },
- {
-  "hash": "ba4f5055a5fd01e8779817a892ac6b54c8b9dee7",
-  "text": "C. Labor"
- },
- {
-  "hash": "544ad1432ee00bdbed2dc8ad985d085d03a0c3b0",
-  "text": "D. Product-market fit"
- },
- {
-  "hash": "cc72505c71678435a4f156b1de9ef72a91d540e3",
-  "text": "The product itself does not fit US customers. That is why the redesign is the biggest lever."
- },
- {
-  "hash": "4f6bbc2f3661a1e3d68a983c7851cc8def3ec06a",
-  "text": "Question 11. Which is the strongest opening line for the recommendation?"
- },
- {
-  "hash": "623b5257a29a46a49a833ddf20cea8fc99d56457",
-  "text": "A. Let me walk you through everything I looked at."
- },
- {
-  "hash": "1e0718308f359f432b49b69a3daec24434e05600",
-  "text": "B. Retail is a tough business right now."
- },
- {
-  "hash": "a018c5c750164f26318a39e975ec692b408be47a",
-  "text": "C. It depends on what the CEO wants."
- },
- {
-  "hash": "462f9abc37a9f7cf3930ad6c6b10366db8481bee",
-  "text": "D. Unicloth can turn profitable this year with three moves: sea shipping, a flagship rent partner, and a US redesign."
- },
- {
-  "hash": "525e4558599e8aa91d6813deed07e0a34f91e9e7",
-  "text": "Lead with the answer, then support it. Consultants call this answer-first, or the pyramid principle."
- },
- {
-  "hash": "2270516d538abce66cd98a85be9183337d8568aa",
-  "text": "Question 12. Costs are $138M, revenue $125M, and the levers add $17.25M. Profit after all three is\u2026"
- },
- {
-  "hash": "1cb68b18f86649b04cdc179ff962342e6e1adc36",
-  "text": "A. $4.25M"
- },
- {
-  "hash": "a6f9af5daf0a1a94f3f2fc63c542dd7b6ecb446e",
-  "text": "B. $17.25M"
- },
- {
-  "hash": "8ced4e83d32522661ba3a3b0ab79fb6ae76ee82c",
-  "text": "C. $13M"
- },
- {
-  "hash": "2020f98b40fa64df677893c4fb007ea3addde20c",
-  "text": "D. $30.25M"
- },
- {
-  "hash": "e05f57ac27e88ff30008a3a83b82a752c5ab7933",
-  "text": "17.25 minus the 13 million gap leaves about 4.25 million. Candidates who say 17.25 forgot the hole they were filling."
- },
- {
-  "hash": "4fa0074ae2cfc1fe69dec002510b4a4651a78f57",
-  "text": "A. Ship clothing by sea instead of air. Ease 5, impact 3, score 15. Cheap to do, and the clothes are not urgent: about 5% of COGS, roughly $4.5M a year."
- },
- {
-  "hash": "9b697765e5c146b1970e17ba173eb2a982603f3d",
-  "text": "B. Bring a coffee shop into the flagship. Ease 4, impact 3, score 12. A partner shares the rent and pulls in more foot traffic. Worth $1.75M a year in the case."
- },
- {
-  "hash": "28a1e1eda6538ee7f4136a53da1d592ac1315113",
-  "text": "C. Redesign the US line: styles, colors, sizes. Ease 2, impact 5, score 10. Costs $12M a year but management estimates $23M of extra revenue. The only idea that fixes the root cause."
- },
- {
-  "hash": "1cb9829abd89884793e70f1dbf558eb0916d8746",
-  "text": "D. Close the three mall stores. Ease 1, impact 1, score 1. Management is not ready: they want to expand into the suburbs later."
- },
- {
-  "hash": "3cb2fd5e5b5d19539de7a7d8b4839fd7f5e8a15e",
-  "text": "E. Move the flagship off Fifth Avenue. Ease 1, impact 1, score 1. No: the flagship is the marketing."
- },
- {
-  "hash": "b7a9df7cfa60045b1c6de557306765a9f99ff3b3",
-  "text": "F. Launch an online store. Ease 3, impact 2, score 6. A real option eventually, but management says they are not ready for the investment."
+  "hash": "fd18193bf50d0ac14d1cc5197d32fa75f95e51d4",
+  "text": "How a BCG-style case works"
  }
 ]

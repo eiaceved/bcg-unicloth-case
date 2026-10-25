@@ -64,7 +64,7 @@ function sha1(str){
  return cvt_hex(H0)+cvt_hex(H1)+cvt_hex(H2)+cvt_hex(H3)+cvt_hex(H4);
 }
 function textKey(t){return t.replace(/\s+/g,' ').trim().slice(0,100)}
-function localURL(t){return 'audio/'+sha1(textKey(t))+'.mp3?v=mark1'}
+function localURL(t){return 'audio/'+sha1(textKey(t))+'.mp3?v=mark2'}
 function fetchLocal(t,cb){
  var u=localURL(t);
  if(localCache[u]!==undefined){cb(localCache[u]);return}
