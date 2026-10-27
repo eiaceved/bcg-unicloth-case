@@ -15,7 +15,7 @@ style.textContent=[
 '.chat-msg.me{align-self:flex-end;background:#2a78d6;color:#fff}',
 '.chat-msg.ai{align-self:flex-start;background:#1b252a;border:1px solid #29343a}',
 '.chat-msg.err{align-self:flex-start;background:#2a1214;border:1px solid #d03b3b;color:#ff8484;font-size:12.5px}',
-'.chips{display:flex;gap:6px;padding:0 12px 8px;flex-wrap:wrap}',
+'#chat-panel .chips{display:flex;gap:6px;padding:0 12px 8px;flex-wrap:wrap}',
 '.chips button{border:1px solid #29343a;background:#1b252a;color:#a8b4bb;border-radius:999px;padding:5px 10px;font-size:12px;cursor:pointer}',
 '.chat-input{display:flex;gap:8px;padding:10px 12px;border-top:1px solid #29343a}',
 '.chat-input textarea{flex:1;resize:none;border-radius:10px;border:1px solid #29343a;background:#1b252a;color:#e5ecef;padding:9px;font:13.5px -apple-system,system-ui,sans-serif;min-height:40px;max-height:90px}',
@@ -60,7 +60,7 @@ function build(){
  });
  document.getElementById('chat-send').addEventListener('click',send);
  document.getElementById('chat-in').addEventListener('keydown',function(e){if(e.key==='Enter'&&!e.shiftKey){e.preventDefault();send()}});
- document.querySelectorAll('.chips button').forEach(function(b){b.addEventListener('click',function(){document.getElementById('chat-in').value=b.getAttribute('data-q');send()})});
+ document.querySelectorAll('#chat-panel .chips button').forEach(function(b){b.addEventListener('click',function(){document.getElementById('chat-in').value=b.getAttribute('data-q');send()})});
  if(!cfg(LS_EP))document.getElementById('chat-ep').value='https://api.openai.com/v1';else document.getElementById('chat-ep').value=cfg(LS_EP);
  document.getElementById('chat-model').value=cfg(LS_MODEL)||'gpt-4o-mini';
 }
